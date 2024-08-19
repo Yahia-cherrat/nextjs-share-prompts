@@ -1,4 +1,7 @@
+'use client'
 
+import { useState, useEffect } from 'react'
+import FeedbackCard from './FeedbackCard'
 
 const Feed = () => {
   return (
